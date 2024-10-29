@@ -41,7 +41,7 @@
 #         print('parz')
 
 # parz_tiv(97)
-split
+# split
 # ==========================lesson 19 ===leetcode=====================
 # num1 = [1,2,3,0,0,0] 
 # m = 3
@@ -90,3 +90,18 @@ split
 #     else:
 #         strs[0] = strs[0][:-1]
 #         print(strs[0])
+
+
+
+
+# def func():
+#     count = 0
+#     while True:
+#         n = int(input('greq tivy: '))
+#         if n == 0:
+#             break
+#         else:
+#             count += n 
+#             print(count)
+
+# func()
